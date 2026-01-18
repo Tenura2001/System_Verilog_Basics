@@ -1,1 +1,1 @@
-# System_Verilog_Basics
+# ⚡ Basics of Digital Design
